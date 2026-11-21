@@ -1,0 +1,1 @@
+"""Unofficial CurseForge MCP server."""
